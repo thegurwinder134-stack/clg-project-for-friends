@@ -1,0 +1,591 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "gender": "Men",
+    "category": "T-Shirts",
+    "price": 499,
+    "oldPrice": 999,
+    "discount": 50,
+    "rating": 4.5,
+    "reviews": 128,
+    "stock": 25,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "description": "Soft cotton regular-fit t-shirt for daily casual wear.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 900,
+      "checkedAt": "2026-05-02T12:46:44.786Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Black Oversized Hoodie",
+    "gender": "Men",
+    "category": "Hoodies",
+    "price": 1299,
+    "oldPrice": 2499,
+    "discount": 48,
+    "rating": 4.7,
+    "reviews": 94,
+    "stock": 18,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Grey"
+    ],
+    "description": "Warm fleece hoodie with relaxed streetwear fit.",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:46:44.790Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Blue Denim Jeans",
+    "gender": "Men",
+    "category": "Jeans",
+    "price": 1499,
+    "oldPrice": 2999,
+    "discount": 50,
+    "rating": 4.4,
+    "reviews": 76,
+    "stock": 30,
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "description": "Slim-fit stretch denim jeans with classic blue wash.",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:46:44.793Z"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Red Street Sneakers",
+    "gender": "Men",
+    "category": "Shoes",
+    "price": 1999,
+    "oldPrice": 3499,
+    "discount": 43,
+    "rating": 4.6,
+    "reviews": 142,
+    "stock": 20,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "colors": [
+      "Red",
+      "White"
+    ],
+    "description": "Lightweight sneakers designed for casual streetwear looks.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:46:44.795Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Minimal Analog Watch",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 2499,
+    "oldPrice": 4999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviews": 61,
+    "stock": 12,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "description": "Clean analog watch with a premium minimalist finish.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 654,
+      "checkedAt": "2026-05-02T12:46:44.798Z"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Casual Checked Shirt",
+    "gender": "Men",
+    "category": "Shirts",
+    "price": 999,
+    "oldPrice": 1999,
+    "discount": 50,
+    "rating": 4.3,
+    "reviews": 53,
+    "stock": 22,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Red",
+      "Blue"
+    ],
+    "description": "Comfortable checked shirt for casual and semi-formal wear.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:46:44.801Z"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Navy Formal Blazer",
+    "gender": "Men",
+    "category": "Blazers",
+    "price": 2999,
+    "oldPrice": 5999,
+    "discount": 50,
+    "rating": 4.6,
+    "reviews": 38,
+    "stock": 10,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "description": "Sharp slim-fit blazer for meetings, parties, and formal events.",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:46:44.803Z"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Black Sports Track Pants",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "price": 899,
+    "oldPrice": 1799,
+    "discount": 50,
+    "rating": 4.2,
+    "reviews": 47,
+    "stock": 28,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "Grey"
+    ],
+    "description": "Comfortable track pants for gym, running, and daily wear.",
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:46:44.807Z"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Brown Leather Belt",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 699,
+    "oldPrice": 1499,
+    "discount": 53,
+    "rating": 4.4,
+    "reviews": 84,
+    "stock": 35,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "description": "Classic leather belt with durable metal buckle.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:46:44.809Z"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Black Sunglasses",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 799,
+    "oldPrice": 1999,
+    "discount": 60,
+    "rating": 4.5,
+    "reviews": 112,
+    "stock": 40,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Stylish UV-protection sunglasses for everyday outdoor use.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 900,
+      "checkedAt": "2026-05-02T12:46:44.811Z"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Floral Summer Dress",
+    "gender": "Women",
+    "category": "Dresses",
+    "price": 1299,
+    "oldPrice": 2599,
+    "discount": 50,
+    "rating": 4.7,
+    "reviews": 91,
+    "stock": 20,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "description": "Lightweight floral dress for summer outings and brunch looks.",
+    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:46:44.813Z"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Elegant Handbag",
+    "gender": "Women",
+    "category": "Bags",
+    "price": 1999,
+    "oldPrice": 3999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviews": 73,
+    "stock": 15,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Beige",
+      "Black"
+    ],
+    "description": "Premium everyday handbag with spacious compartments.",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1200,
+      "checkedAt": "2026-05-02T12:46:44.816Z"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Party High Heels",
+    "gender": "Women",
+    "category": "Heels",
+    "price": 1599,
+    "oldPrice": 2999,
+    "discount": 47,
+    "rating": 4.6,
+    "reviews": 58,
+    "stock": 18,
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "description": "Stylish high heels for parties, dates, and formal outfits.",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 900,
+      "checkedAt": "2026-05-02T12:46:44.819Z"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Casual Crop Top",
+    "gender": "Women",
+    "category": "Tops",
+    "price": 599,
+    "oldPrice": 1299,
+    "discount": 54,
+    "rating": 4.3,
+    "reviews": 69,
+    "stock": 30,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "description": "Trendy crop top for casual outfits and streetwear looks.",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:46:44.820Z"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Blue Denim Jacket",
+    "gender": "Women",
+    "category": "Jackets",
+    "price": 1899,
+    "oldPrice": 3499,
+    "discount": 46,
+    "rating": 4.7,
+    "reviews": 44,
+    "stock": 12,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "description": "Classic denim jacket with modern cropped fit.",
+    "image": "https://images.unsplash.com/photo-1544441892-794166f1e3be?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1544441892-794166f1e3be?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:46:44.824Z"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Ethnic Kurti Set",
+    "gender": "Women",
+    "category": "Ethnic Wear",
+    "price": 999,
+    "oldPrice": 1999,
+    "discount": 50,
+    "rating": 4.5,
+    "reviews": 103,
+    "stock": 25,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Green",
+      "Red"
+    ],
+    "description": "Elegant ethnic kurti for festive and daily traditional wear.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1125,
+      "checkedAt": "2026-05-02T12:46:44.826Z"
+    }
+  },
+  {
+    "id": 17,
+    "name": "White Women Sneakers",
+    "gender": "Women",
+    "category": "Shoes",
+    "price": 1799,
+    "oldPrice": 2999,
+    "discount": 40,
+    "rating": 4.6,
+    "reviews": 87,
+    "stock": 20,
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "colors": [
+      "White"
+    ],
+    "description": "Clean white sneakers for daily comfort and casual styling.",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 675,
+      "checkedAt": "2026-05-02T12:46:44.827Z"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Premium Silk Saree",
+    "gender": "Women",
+    "category": "Ethnic Wear",
+    "price": 2999,
+    "oldPrice": 5999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviews": 36,
+    "stock": 10,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Red",
+      "Gold"
+    ],
+    "description": "Premium festive saree with rich traditional styling.",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:46:44.829Z"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Black Everyday Leggings",
+    "gender": "Women",
+    "category": "Bottomwear",
+    "price": 499,
+    "oldPrice": 999,
+    "discount": 50,
+    "rating": 4.2,
+    "reviews": 75,
+    "stock": 40,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Grey"
+    ],
+    "description": "Stretchable leggings for comfort, daily wear, and workouts.",
+    "image": "https://images.unsplash.com/photo-1506629905607-d9b1b2e3d56f?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "broken",
+      "url": "https://images.unsplash.com/photo-1506629905607-d9b1b2e3d56f?auto=format&fit=crop&w=900&q=80",
+      "checkedAt": "2026-05-02T12:46:44.915Z",
+      "reason": "Image failed to load"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Gold Statement Earrings",
+    "gender": "Women",
+    "category": "Jewellery",
+    "price": 399,
+    "oldPrice": 899,
+    "discount": 56,
+    "rating": 4.4,
+    "reviews": 121,
+    "stock": 50,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Gold",
+      "Silver"
+    ],
+    "description": "Trendy earrings to complete festive and party outfits.",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:46:44.830Z"
+    }
+  }
+]

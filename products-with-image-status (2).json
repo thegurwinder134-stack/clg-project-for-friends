@@ -1,0 +1,1161 @@
+[
+  {
+    "id": 21,
+    "name": "Men Beige Overshirt",
+    "gender": "Men",
+    "category": "Shirts",
+    "price": 1199,
+    "oldPrice": 2299,
+    "discount": 48,
+    "rating": 4.4,
+    "reviews": 64,
+    "stock": 21,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Beige",
+      "Cream"
+    ],
+    "description": "Relaxed-fit beige overshirt for clean casual layering.",
+    "image": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1417,
+      "checkedAt": "2026-05-02T12:48:16.475Z"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Men Brown Casual Jacket",
+    "gender": "Men",
+    "category": "Jackets",
+    "price": 2199,
+    "oldPrice": 4499,
+    "discount": 51,
+    "rating": 4.6,
+    "reviews": 89,
+    "stock": 14,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Brown",
+      "Tan"
+    ],
+    "description": "Premium casual jacket with modern streetwear styling.",
+    "image": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.479Z"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Men White Casual Sneakers",
+    "gender": "Men",
+    "category": "Shoes",
+    "price": 1899,
+    "oldPrice": 3299,
+    "discount": 42,
+    "rating": 4.5,
+    "reviews": 118,
+    "stock": 24,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "colors": [
+      "White"
+    ],
+    "description": "Minimal white sneakers for everyday outfits.",
+    "image": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1260,
+      "checkedAt": "2026-05-02T12:48:16.484Z"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Men Grey Sweatshirt",
+    "gender": "Men",
+    "category": "Sweatshirts",
+    "price": 999,
+    "oldPrice": 1999,
+    "discount": 50,
+    "rating": 4.3,
+    "reviews": 52,
+    "stock": 27,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "description": "Soft fleece sweatshirt for casual daily wear.",
+    "image": "https://images.unsplash.com/photo-1618354691438-25bc04584c23?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1618354691438-25bc04584c23?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1260,
+      "checkedAt": "2026-05-02T12:48:16.490Z"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Men Black Leather Jacket",
+    "gender": "Men",
+    "category": "Jackets",
+    "price": 3499,
+    "oldPrice": 6999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviews": 73,
+    "stock": 9,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Bold black leather jacket for premium night-out styling.",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1200,
+      "checkedAt": "2026-05-02T12:48:16.494Z"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Men Olive Cargo Pants",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "price": 1399,
+    "oldPrice": 2799,
+    "discount": 50,
+    "rating": 4.4,
+    "reviews": 96,
+    "stock": 19,
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Olive",
+      "Black"
+    ],
+    "description": "Utility-style cargo pants with multiple pockets.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1246,
+      "checkedAt": "2026-05-02T12:48:16.499Z"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Men Navy Polo T-Shirt",
+    "gender": "Men",
+    "category": "T-Shirts",
+    "price": 799,
+    "oldPrice": 1499,
+    "discount": 47,
+    "rating": 4.2,
+    "reviews": 66,
+    "stock": 33,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "description": "Classic polo t-shirt for smart casual looks.",
+    "image": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1125,
+      "checkedAt": "2026-05-02T12:48:16.503Z"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Men Printed Casual Shirt",
+    "gender": "Men",
+    "category": "Shirts",
+    "price": 899,
+    "oldPrice": 1799,
+    "discount": 50,
+    "rating": 4.1,
+    "reviews": 41,
+    "stock": 26,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "description": "Printed casual shirt for vacation and weekend styling.",
+    "image": "https://images.unsplash.com/photo-1589310243389-96a5483213a8?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1589310243389-96a5483213a8?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.508Z"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Men Black Backpack",
+    "gender": "Men",
+    "category": "Bags",
+    "price": 1499,
+    "oldPrice": 2999,
+    "discount": 50,
+    "rating": 4.6,
+    "reviews": 134,
+    "stock": 17,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Everyday backpack with laptop compartment.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.513Z"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Men Tan Formal Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "price": 2499,
+    "oldPrice": 4999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviews": 57,
+    "stock": 13,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "colors": [
+      "Tan",
+      "Brown"
+    ],
+    "description": "Polished formal shoes for office and wedding looks.",
+    "image": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1260,
+      "checkedAt": "2026-05-02T12:48:16.519Z"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Women Black Midi Dress",
+    "gender": "Women",
+    "category": "Dresses",
+    "price": 1599,
+    "oldPrice": 3199,
+    "discount": 50,
+    "rating": 4.6,
+    "reviews": 77,
+    "stock": 16,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Elegant black midi dress for dinner and party wear.",
+    "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.525Z"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Women Beige Trench Coat",
+    "gender": "Women",
+    "category": "Coats",
+    "price": 2999,
+    "oldPrice": 5999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviews": 49,
+    "stock": 11,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Beige"
+    ],
+    "description": "Classic trench coat for premium minimal fashion.",
+    "image": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.530Z"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Women White Shirt",
+    "gender": "Women",
+    "category": "Shirts",
+    "price": 899,
+    "oldPrice": 1699,
+    "discount": 47,
+    "rating": 4.3,
+    "reviews": 81,
+    "stock": 29,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "White"
+    ],
+    "description": "Crisp white shirt for office and casual styling.",
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.534Z"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Women Pink Hoodie",
+    "gender": "Women",
+    "category": "Hoodies",
+    "price": 1299,
+    "oldPrice": 2499,
+    "discount": 48,
+    "rating": 4.5,
+    "reviews": 68,
+    "stock": 22,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Pink"
+    ],
+    "description": "Soft pastel hoodie for cozy casual outfits.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 676,
+      "checkedAt": "2026-05-02T12:48:16.539Z"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Women Blue Wide-Leg Jeans",
+    "gender": "Women",
+    "category": "Jeans",
+    "price": 1499,
+    "oldPrice": 2999,
+    "discount": 50,
+    "rating": 4.4,
+    "reviews": 92,
+    "stock": 18,
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "description": "Trendy wide-leg denim jeans with relaxed fit.",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.542Z"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Women Luxury Tote Bag",
+    "gender": "Women",
+    "category": "Bags",
+    "price": 2199,
+    "oldPrice": 4499,
+    "discount": 51,
+    "rating": 4.7,
+    "reviews": 109,
+    "stock": 15,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Brown",
+      "Beige"
+    ],
+    "description": "Spacious tote bag for work, travel, and daily use.",
+    "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1144,
+      "checkedAt": "2026-05-02T12:48:16.545Z"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Women Red Party Dress",
+    "gender": "Women",
+    "category": "Dresses",
+    "price": 1799,
+    "oldPrice": 3599,
+    "discount": 50,
+    "rating": 4.6,
+    "reviews": 54,
+    "stock": 13,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Red"
+    ],
+    "description": "Bold red party dress for confident evening looks.",
+    "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1282,
+      "checkedAt": "2026-05-02T12:48:16.548Z"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Women Gold Bracelet",
+    "gender": "Women",
+    "category": "Jewellery",
+    "price": 699,
+    "oldPrice": 1499,
+    "discount": 53,
+    "rating": 4.4,
+    "reviews": 119,
+    "stock": 34,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Gold"
+    ],
+    "description": "Minimal gold bracelet for elegant everyday styling.",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:48:16.551Z"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Women Casual Flats",
+    "gender": "Women",
+    "category": "Shoes",
+    "price": 999,
+    "oldPrice": 1999,
+    "discount": 50,
+    "rating": 4.2,
+    "reviews": 63,
+    "stock": 26,
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "colors": [
+      "Beige",
+      "Black"
+    ],
+    "description": "Comfortable flats for daily wear and office use.",
+    "image": "https://images.unsplash.com/photo-1601924638867-3ec026b63c9a?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "broken",
+      "url": "https://images.unsplash.com/photo-1601924638867-3ec026b63c9a?auto=format&fit=crop&w=900&q=80",
+      "checkedAt": "2026-05-02T12:48:16.563Z",
+      "reason": "Image failed to load"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Women Black Leather Handbag",
+    "gender": "Women",
+    "category": "Bags",
+    "price": 2499,
+    "oldPrice": 4999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviews": 88,
+    "stock": 12,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Premium black handbag with elegant structured design.",
+    "image": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Men White Linen Shirt",
+    "gender": "Men",
+    "category": "Shirts",
+    "price": 1299,
+    "oldPrice": 2499,
+    "discount": 48,
+    "rating": 4.5,
+    "reviews": 71,
+    "stock": 18,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "White"
+    ],
+    "description": "Breathable linen shirt for summer and vacation outfits.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1349,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Men Premium Perfume",
+    "gender": "Men",
+    "category": "Fragrance",
+    "price": 1599,
+    "oldPrice": 2999,
+    "discount": 47,
+    "rating": 4.6,
+    "reviews": 144,
+    "stock": 31,
+    "sizes": [
+      "100ml"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Long-lasting bold fragrance for daily and evening use.",
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Men Grey Running Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "price": 2299,
+    "oldPrice": 4599,
+    "discount": 50,
+    "rating": 4.7,
+    "reviews": 102,
+    "stock": 20,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "colors": [
+      "Grey"
+    ],
+    "description": "Lightweight running shoes with cushioned sole.",
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Men Black Slim Jeans",
+    "gender": "Men",
+    "category": "Jeans",
+    "price": 1599,
+    "oldPrice": 3199,
+    "discount": 50,
+    "rating": 4.4,
+    "reviews": 83,
+    "stock": 23,
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Black slim-fit jeans for clean evening and casual looks.",
+    "image": "https://images.unsplash.com/photo-1511196044526-5cb3bcb7071b?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1511196044526-5cb3bcb7071b?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1125,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Men Silver Chain",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 799,
+    "oldPrice": 1699,
+    "discount": 53,
+    "rating": 4.2,
+    "reviews": 45,
+    "stock": 38,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "description": "Minimal silver chain for modern streetwear styling.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Women White Sneakers",
+    "gender": "Women",
+    "category": "Shoes",
+    "price": 1699,
+    "oldPrice": 3299,
+    "discount": 48,
+    "rating": 4.5,
+    "reviews": 95,
+    "stock": 24,
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "colors": [
+      "White"
+    ],
+    "description": "Clean white sneakers for casual daily styling.",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 598,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Women Satin Blouse",
+    "gender": "Women",
+    "category": "Tops",
+    "price": 1199,
+    "oldPrice": 2399,
+    "discount": 50,
+    "rating": 4.4,
+    "reviews": 61,
+    "stock": 19,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Cream",
+      "Champagne"
+    ],
+    "description": "Soft satin blouse for premium office and dinner looks.",
+    "image": "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1200,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Women Floral Skirt",
+    "gender": "Women",
+    "category": "Skirts",
+    "price": 899,
+    "oldPrice": 1799,
+    "discount": 50,
+    "rating": 4.3,
+    "reviews": 72,
+    "stock": 28,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Floral"
+    ],
+    "description": "Soft floral skirt for summer and vacation outfits.",
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a13d27?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "broken",
+      "url": "https://images.unsplash.com/photo-1583496661160-fb5886a13d27?auto=format&fit=crop&w=900&q=80",
+      "checkedAt": "2026-05-02T12:48:16.563Z",
+      "reason": "Image failed to load"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Women Rose Gold Watch",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 2199,
+    "oldPrice": 4499,
+    "discount": 51,
+    "rating": 4.8,
+    "reviews": 86,
+    "stock": 14,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Rose Gold"
+    ],
+    "description": "Elegant rose gold watch for premium daily styling.",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1348,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Women Minimal Necklace",
+    "gender": "Women",
+    "category": "Jewellery",
+    "price": 599,
+    "oldPrice": 1299,
+    "discount": 54,
+    "rating": 4.5,
+    "reviews": 101,
+    "stock": 42,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Gold"
+    ],
+    "description": "Minimal necklace for everyday elegant styling.",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Women Black Blazer",
+    "gender": "Women",
+    "category": "Blazers",
+    "price": 2499,
+    "oldPrice": 4999,
+    "discount": 50,
+    "rating": 4.6,
+    "reviews": 58,
+    "stock": 13,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "description": "Structured black blazer for office and formal outfits.",
+    "image": "https://images.unsplash.com/photo-1608234808654-2a8875faa7fd?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1608234808654-2a8875faa7fd?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1159,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Women Beige Sandals",
+    "gender": "Women",
+    "category": "Shoes",
+    "price": 1199,
+    "oldPrice": 2299,
+    "discount": 48,
+    "rating": 4.2,
+    "reviews": 46,
+    "stock": 25,
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "colors": [
+      "Beige"
+    ],
+    "description": "Comfortable beige sandals for casual and festive wear.",
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1125,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Women Printed Kurti",
+    "gender": "Women",
+    "category": "Ethnic Wear",
+    "price": 899,
+    "oldPrice": 1899,
+    "discount": 53,
+    "rating": 4.4,
+    "reviews": 97,
+    "stock": 30,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Yellow",
+      "Pink"
+    ],
+    "description": "Printed kurti for daily ethnic and festive comfort.",
+    "image": "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Women Gym Leggings",
+    "gender": "Women",
+    "category": "Activewear",
+    "price": 799,
+    "oldPrice": 1599,
+    "discount": 50,
+    "rating": 4.3,
+    "reviews": 78,
+    "stock": 37,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Grey"
+    ],
+    "description": "Stretchable gym leggings with comfortable high waist.",
+    "image": "https://images.unsplash.com/photo-1506629905607-d9b1b2e3d56f?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "broken",
+      "url": "https://images.unsplash.com/photo-1506629905607-d9b1b2e3d56f?auto=format&fit=crop&w=900&q=80",
+      "checkedAt": "2026-05-02T12:48:16.563Z",
+      "reason": "Image failed to load"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Women Luxury Perfume",
+    "gender": "Women",
+    "category": "Fragrance",
+    "price": 1799,
+    "oldPrice": 3499,
+    "discount": 49,
+    "rating": 4.7,
+    "reviews": 133,
+    "stock": 21,
+    "sizes": [
+      "100ml"
+    ],
+    "colors": [
+      "Pink"
+    ],
+    "description": "Soft floral fragrance with long-lasting premium notes.",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1293,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Men Green Bomber Jacket",
+    "gender": "Men",
+    "category": "Jackets",
+    "price": 2599,
+    "oldPrice": 5199,
+    "discount": 50,
+    "rating": 4.6,
+    "reviews": 69,
+    "stock": 11,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Green"
+    ],
+    "description": "Modern bomber jacket with clean streetwear finish.",
+    "image": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1292,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Men Casual Cap",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 499,
+    "oldPrice": 999,
+    "discount": 50,
+    "rating": 4.1,
+    "reviews": 74,
+    "stock": 44,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Black",
+      "Navy"
+    ],
+    "description": "Adjustable casual cap for outdoor and streetwear looks.",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 600,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Women Designer Sunglasses",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 999,
+    "oldPrice": 1999,
+    "discount": 50,
+    "rating": 4.5,
+    "reviews": 87,
+    "stock": 32,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Black",
+      "Brown"
+    ],
+    "description": "Stylish sunglasses with premium fashion frame.",
+    "image": "https://images.unsplash.com/photo-1509695507497-903c140c43b0?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1509695507497-903c140c43b0?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 598,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Women Pearl Earrings",
+    "gender": "Women",
+    "category": "Jewellery",
+    "price": 499,
+    "oldPrice": 999,
+    "discount": 50,
+    "rating": 4.4,
+    "reviews": 111,
+    "stock": 46,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Pearl",
+      "White"
+    ],
+    "description": "Classic pearl earrings for elegant traditional and modern looks.",
+    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1171,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Men Premium Wallet",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 799,
+    "oldPrice": 1699,
+    "discount": 53,
+    "rating": 4.5,
+    "reviews": 124,
+    "stock": 39,
+    "sizes": [
+      "Free Size"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "description": "Compact premium wallet with card slots and cash section.",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+    "imageStatus": {
+      "status": "loaded",
+      "url": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "width": 900,
+      "height": 1350,
+      "checkedAt": "2026-05-02T12:48:16.554Z"
+    }
+  }
+]
